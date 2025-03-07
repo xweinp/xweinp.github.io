@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-07T05:03:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modele z 🤗</title><subtitle>by Jakub Pniewski</subtitle><entry><title type="html">CompVis/stable-diffusion-v1-4</title><link href="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/" rel="alternate" type="text/html" title="CompVis/stable-diffusion-v1-4" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/CompVis_stable-diffusion-v1-4</id><content type="html" xml:base="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-07T12:08:36+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modele z 🤗</title><subtitle>by Jakub Pniewski</subtitle><entry><title type="html">CompVis/stable-diffusion-v1-4</title><link href="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/" rel="alternate" type="text/html" title="CompVis/stable-diffusion-v1-4" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/CompVis_stable-diffusion-v1-4</id><content type="html" xml:base="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
 <p><strong>License</strong>: creativeml-openrail-m</p>
 
@@ -15,8 +15,7 @@ Stable Diffusion is a latent text-to-image diffusion model capable of generating
 
 <ul>
   <li><a href="https://github.com/CompVis/stable-diffusion">github.com/…</a></li>
-  <li><a href="https://github.com/ca4ti/stable-diffusion-v1-4">github.com/…</a></li>
-  <li><a href="https://gitcode.com/mirrors/CompVis/stable-diffusion-v1-4/overview">gitcode.com/…</a></li>
+  <li><a href="https://www.aimodels.fyi/models/huggingFace/stable-diffusion-v1-4-compvis">www.aimodels.fyi/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">WarriorMama777/OrangeMixs</title><link href="http://localhost:4000/models/WarriorMama777_OrangeMixs/" rel="alternate" type="text/html" title="WarriorMama777/OrangeMixs" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/WarriorMama777_OrangeMixs</id><content type="html" xml:base="http://localhost:4000/models/WarriorMama777_OrangeMixs/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
 <p><strong>License</strong>: creativeml-openrail-m</p>
@@ -33,9 +32,8 @@ Stable Diffusion is a latent text-to-image diffusion model capable of generating
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://www.orange.pl/portal/oferta_mix.phtml">www.orange.pl/…</a></li>
-  <li><a href="https://fxis.ai/edu/getting-started-with-orangemixs-a-guide-for-beginners/">fxis.ai/…</a></li>
-  <li><a href="https://www.youtube.com/watch?v=7VgRYGFscu8">www.youtube.com/…</a></li>
+  <li><a href="https://www.bilibili.com/opus/764769972943585313">www.bilibili.com/…</a></li>
+  <li><a href="https://ai.gitee.com/hf-models/WarriorMama777/OrangeMixs/blob/main/README.md">ai.gitee.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">bigscience/bloom</title><link href="http://localhost:4000/models/bigscience_bloom/" rel="alternate" type="text/html" title="bigscience/bloom" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/bigscience_bloom</id><content type="html" xml:base="http://localhost:4000/models/bigscience_bloom/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
 <p><strong>License</strong>: bigscience-bloom-rail-1.0</p>
@@ -52,11 +50,7 @@ BLOOM is an autoregressive Large Language Model (LLM) trained to continue text f
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://bloomflowers.pl/">bloomflowers.pl/…</a></li>
-  <li><a href="https://www.bloom.com.pl/nasze-sklepy">www.bloom.com.pl/…</a></li>
-  <li><a href="https://www.bloom.com.pl/">www.bloom.com.pl/…</a></li>
-  <li><a href="https://www.filmweb.pl/serial/Bloom-2019-818247">www.filmweb.pl/…</a></li>
-  <li><a href="https://winx.fandom.com/pl/wiki/Bloom">winx.fandom.com/…</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/BLOOM_(language_model)">en.wikipedia.org/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">black-forest-labs/FLUX.1-dev</title><link href="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/" rel="alternate" type="text/html" title="black-forest-labs/FLUX.1-dev" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/black-forest-labs_FLUX.1-dev</id><content type="html" xml:base="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
 <p><strong>License</strong>: flux-1-dev-non-commercial-license</p>
@@ -73,10 +67,10 @@ FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of gen
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://flux1ai.com/dev">flux1ai.com/…</a></li>
-  <li><a href="https://fluxdev.net/flux1-dev">fluxdev.net/…</a></li>
-  <li><a href="https://civitai.com/models/618692/flux">civitai.com/…</a></li>
   <li><a href="https://blackforestlabs.org/flux-1-1/">blackforestlabs.org/…</a></li>
+  <li><a href="https://blackforestlabs.ai/1-1-pro/">blackforestlabs.ai/…</a></li>
+  <li><a href="https://blackforestlabs.io/flux-1/">blackforestlabs.io/…</a></li>
+  <li><a href="https://fluxdev.net/flux1-dev">fluxdev.net/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">black-forest-labs/FLUX.1-schnell</title><link href="http://localhost:4000/models/black-forest-labs_FLUX.1-schnell/" rel="alternate" type="text/html" title="black-forest-labs/FLUX.1-schnell" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/black-forest-labs_FLUX.1-schnell</id><content type="html" xml:base="http://localhost:4000/models/black-forest-labs_FLUX.1-schnell/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
 <p><strong>License</strong>: apache-2.0</p>
@@ -93,9 +87,9 @@ FLUX.1 [schnell] is a 12 billion parameter rectified flow transformer capable of
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://flux1ai.com/schnell">flux1ai.com/…</a></li>
-  <li><a href="https://civitai.com/models/618486?modelVersionId=691408">civitai.com/…</a></li>
   <li><a href="https://blackforestlabs.io/flux-1/">blackforestlabs.io/…</a></li>
+  <li><a href="https://blackforestlabs.ai/1-1-pro/">blackforestlabs.ai/…</a></li>
+  <li><a href="https://replicate.com/black-forest-labs/flux-schnell">replicate.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">deepseek-ai/DeepSeek-R1</title><link href="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/" rel="alternate" type="text/html" title="deepseek-ai/DeepSeek-R1" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_DeepSeek-R1</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
 <p><strong>License</strong>: mit</p>
@@ -112,16 +106,15 @@ DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and 
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://www.deepseek.com/?ref=localhost">www.deepseek.com/…</a></li>
   <li><a href="https://github.com/deepseek-ai/DeepSeek-R1">github.com/…</a></li>
-  <li><a href="https://www.purepc.pl/jak-skorzystac-z-deepseek-r1-za-darmo-lokalna-instalacja-nowych-modeli-ai-jest-bardzo-prosta-zobacz-krotki-poradnik">www.purepc.pl/…</a></li>
+  <li><a href="https://www.deepseek.com/">www.deepseek.com/…</a></li>
   <li><a href="https://deepseekai.pl/blog/deepseek-r1-czym-wlasciwie-jest/">deepseekai.pl/…</a></li>
-  <li><a href="https://r1web.com/">r1web.com/…</a></li>
+  <li><a href="https://ollama.com/library/deepseek-r1">ollama.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">deepseek-ai/DeepSeek-V3</title><link href="http://localhost:4000/models/deepseek-ai_DeepSeek-V3/" rel="alternate" type="text/html" title="deepseek-ai/DeepSeek-V3" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_DeepSeek-V3</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_DeepSeek-V3/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
 <p><strong>License</strong>: ND</p>
 
-<p><strong>Likes</strong>: 3.6k</p>
+<p><strong>Likes</strong>: 3.61k</p>
 
 <p><strong>Transformers</strong>: ✅</p>
 
@@ -133,16 +126,16 @@ DeepSeek-V3 is a strong Mixture-of-Experts (MoE) language model with 671B total 
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://www.deepseek.com/">www.deepseek.com/…</a></li>
   <li><a href="https://github.com/deepseek-ai/DeepSeek-V3">github.com/…</a></li>
-  <li><a href="https://arxiv.org/abs/2412.19437">arxiv.org/…</a></li>
-  <li><a href="https://ollama.com/library/deepseek-v3">ollama.com/…</a></li>
-  <li><a href="https://arxiv.org/pdf/2412.19437">arxiv.org/…</a></li>
+  <li><a href="https://www.deepseek.com/">www.deepseek.com/…</a></li>
+  <li><a href="https://deepseeksai.com/v3/">deepseeksai.com/…</a></li>
+  <li><a href="https://www.notebookcheck.pl/Deepseek-prezentuje-Deepseek-V3-AI-LLM-z-bezplatnym-dostepem-do-chatbota.938405.0.html">www.notebookcheck.pl/…</a></li>
+  <li><a href="https://relevanceai.com/llm-models/deepseek-v3">relevanceai.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">deepseek-ai/Janus-Pro-7B</title><link href="http://localhost:4000/models/deepseek-ai_Janus-Pro-7B/" rel="alternate" type="text/html" title="deepseek-ai/Janus-Pro-7B" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_Janus-Pro-7B</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_Janus-Pro-7B/"><![CDATA[<p><strong>Type</strong>: Any-to-Any</p>
 
 <p><strong>License</strong>: mit</p>
 
-<p><strong>Likes</strong>: 3.18k</p>
+<p><strong>Likes</strong>: 3.19k</p>
 
 <p><strong>Transformers</strong>: ✅</p>
 
@@ -154,11 +147,10 @@ Janus-Pro is a novel autoregressive framework that unifies multimodal understand
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://januspro.org/">januspro.org/…</a></li>
-  <li><a href="https://januspro.io/">januspro.io/…</a></li>
+  <li><a href="https://janus-deepseek.com/zh">janus-deepseek.com/…</a></li>
   <li><a href="https://janus-deepseek.com/">janus-deepseek.com/…</a></li>
-  <li><a href="https://janus7b.com/">janus7b.com/…</a></li>
-  <li><a href="https://deepseek-januspro.com/">deepseek-januspro.com/…</a></li>
+  <li><a href="https://januspro.org/">januspro.org/…</a></li>
+  <li><a href="https://deepseekjanuspro.com/">deepseekjanuspro.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Any-to-Any]]></summary></entry><entry><title type="html">google/gemma-7b</title><link href="http://localhost:4000/models/google_gemma-7b/" rel="alternate" type="text/html" title="google/gemma-7b" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/google_gemma-7b</id><content type="html" xml:base="http://localhost:4000/models/google_gemma-7b/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
 <p><strong>License</strong>: gemma</p>
@@ -175,14 +167,14 @@ Gemma is a family of lightweight, state-of-the-art open models from Google. Buil
 <p><strong>Useful links</strong>:</p>
 
 <ul>
-  <li><a href="https://www.promptingguide.ai/models/gemma">www.promptingguide.ai/…</a></li>
-  <li><a href="https://ollama.com/library/gemma:7b">ollama.com/…</a></li>
-  <li><a href="https://bulldogjob.pl/readme/gemma-najnowszy-lekki-model-ai-od-google">bulldogjob.pl/…</a></li>
+  <li><a href="https://ai.google.dev/gemma">ai.google.dev/…</a></li>
+  <li><a href="https://docs.api.nvidia.com/nim/reference/google-gemma7b">docs.api.nvidia.com/…</a></li>
+  <li><a href="https://developers.googleblog.com/en/gemma-explained-overview-gemma-model-family-architectures/">developers.googleblog.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">hexgrad/Kokoro-82M</title><link href="http://localhost:4000/models/hexgrad_Kokoro-82M/" rel="alternate" type="text/html" title="hexgrad/Kokoro-82M" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/hexgrad_Kokoro-82M</id><content type="html" xml:base="http://localhost:4000/models/hexgrad_Kokoro-82M/"><![CDATA[<p><strong>Type</strong>: Text-to-Speech</p>
 
 <p><strong>License</strong>: apache-2.0</p>
 
-<p><strong>Likes</strong>: 3.57k</p>
+<p><strong>Likes</strong>: 3.58k</p>
 
 <p><strong>Transformers</strong>: ❌</p>
 
@@ -196,5 +188,5 @@ Kokoro is an open-weight TTS model with 82 million parameters. Despite its light
 <ul>
   <li><a href="https://github.com/hexgrad/kokoro">github.com/…</a></li>
   <li><a href="https://github.com/zboyles/Kokoro-82M">github.com/…</a></li>
-  <li><a href="https://kokorotts.net/models/Kokoro/Kokoro-82m">kokorotts.net/…</a></li>
+  <li><a href="https://deepinfra.com/hexgrad/Kokoro-82M">deepinfra.com/…</a></li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Speech]]></summary></entry></feed>

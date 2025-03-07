@@ -90,13 +90,14 @@ def get_info(model):
     s_summary = summarizer(desc, max_length=50, min_length=20, do_sample=False)
     summary = summarizer(desc, max_length=400, min_length=100, do_sample=False)
 
-    search_phraze = model.find('h4').get_text(strip=True).split('/')[1]
+    search_phraze = model.find('h4').get_text(strip=True).replace('/', ' ').replace('-', ' ')    
     ddgs_links = DDGS().text(search_phraze, max_results=5, safesearch='on', region='pl-pl')
     ddgs_links = [i['href'] for i in ddgs_links]
 
-    img_url = DDGS().images(search_phraze, max_results=1, safesearch='on', region='pl-pl')[0]['image']
+    img_url = DDGS().images(search_phraze, max_results=1, safesearch='on')[0]['image']
     img_res = requests.get(img_url)
-    img_pth = images_pth + '/' + str(search_phraze).replace('.', '-').replace('/', '-').lower() + '.jpg'
+    img_pth = str(search_phraze).replace('.', '-').replace('/', '-').replace(' ', '_').lower()
+    img_pth = images_pth + '/' + img_pth + '.jpg'
 
     with open(img_pth, 'wb') as f:
         f.write(img_res.content)    
