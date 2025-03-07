@@ -1,25 +1,102 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-07T00:37:02+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modele z 🤗</title><subtitle>by Jakub Pniewski</subtitle><entry><title type="html">black-forest-labs/FLUX.1-dev</title><link href="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/" rel="alternate" type="text/html" title="black-forest-labs/FLUX.1-dev" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/black-forest-labs_FLUX.1-dev</id><content type="html" xml:base="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-03-07T05:03:20+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Modele z 🤗</title><subtitle>by Jakub Pniewski</subtitle><entry><title type="html">CompVis/stable-diffusion-v1-4</title><link href="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/" rel="alternate" type="text/html" title="CompVis/stable-diffusion-v1-4" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/CompVis_stable-diffusion-v1-4</id><content type="html" xml:base="http://localhost:4000/models/CompVis_stable-diffusion-v1-4/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
+
+<p><strong>License</strong>: creativeml-openrail-m</p>
+
+<p><strong>Likes</strong>: 6.71k</p>
+
+<p><strong>Transformers</strong>: ❌</p>
+
+<p><a href="https://huggingface.co/CompVis/stable-diffusion-v1-4">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input. It is a Latent Diffusion Model that uses a fixed, pretrained text encoder (CLIP ViT-L/14) as suggested in the Imagen paper. The CreativeML OpenRAIL M license is an Open RAil M license, adapted from the work that BigScience and the RAIL Initiative are jointly carrying in the area of responsible AI licensing.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://github.com/CompVis/stable-diffusion">github.com/…</a></li>
+  <li><a href="https://github.com/ca4ti/stable-diffusion-v1-4">github.com/…</a></li>
+  <li><a href="https://gitcode.com/mirrors/CompVis/stable-diffusion-v1-4/overview">gitcode.com/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">WarriorMama777/OrangeMixs</title><link href="http://localhost:4000/models/WarriorMama777_OrangeMixs/" rel="alternate" type="text/html" title="WarriorMama777/OrangeMixs" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/WarriorMama777_OrangeMixs</id><content type="html" xml:base="http://localhost:4000/models/WarriorMama777_OrangeMixs/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
+
+<p><strong>License</strong>: creativeml-openrail-m</p>
+
+<p><strong>Likes</strong>: 3.81k</p>
+
+<p><strong>Transformers</strong>: ❌</p>
+
+<p><a href="https://huggingface.co/WarriorMama777/OrangeMixs">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+“OrangeMixs” shares various Merge models that can be used with StableDiffusionWebui:Automatic1111 and others. Maintain a repository for the following purposes. To provide easy access to models commonly used in the Japanese community. To make the specification more search engine friendly, I renamed it to “ModelName + (orangemixs)”. We support a Gradio Web UI to run OrangeMixs: The Wisdom of the Anons. The order within the section is ascending.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://www.orange.pl/portal/oferta_mix.phtml">www.orange.pl/…</a></li>
+  <li><a href="https://fxis.ai/edu/getting-started-with-orangemixs-a-guide-for-beginners/">fxis.ai/…</a></li>
+  <li><a href="https://www.youtube.com/watch?v=7VgRYGFscu8">www.youtube.com/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">bigscience/bloom</title><link href="http://localhost:4000/models/bigscience_bloom/" rel="alternate" type="text/html" title="bigscience/bloom" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/bigscience_bloom</id><content type="html" xml:base="http://localhost:4000/models/bigscience_bloom/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
+
+<p><strong>License</strong>: bigscience-bloom-rail-1.0</p>
+
+<p><strong>Likes</strong>: 4.86k</p>
+
+<p><strong>Transformers</strong>: ✅</p>
+
+<p><a href="https://huggingface.co/bigscience/bloom">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+BLOOM is an autoregressive Large Language Model (LLM) trained to continue text from a prompt on vast amounts of text data using industrial-scale computational resources. It is able to output coherent text in 46 languages and 13 programming languages that is hardly distinguishable from text written by humans. BLOOM can also be instructed to perform text tasks it hasn’t been explicitly trained for, by casting them as text generation tasks. This section includes details about the model objective and architecture, and the compute infrastructure.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://bloomflowers.pl/">bloomflowers.pl/…</a></li>
+  <li><a href="https://www.bloom.com.pl/nasze-sklepy">www.bloom.com.pl/…</a></li>
+  <li><a href="https://www.bloom.com.pl/">www.bloom.com.pl/…</a></li>
+  <li><a href="https://www.filmweb.pl/serial/Bloom-2019-818247">www.filmweb.pl/…</a></li>
+  <li><a href="https://winx.fandom.com/pl/wiki/Bloom">winx.fandom.com/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">black-forest-labs/FLUX.1-dev</title><link href="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/" rel="alternate" type="text/html" title="black-forest-labs/FLUX.1-dev" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/black-forest-labs_FLUX.1-dev</id><content type="html" xml:base="http://localhost:4000/models/black-forest-labs_FLUX.1-dev/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
 <p><strong>License</strong>: flux-1-dev-non-commercial-license</p>
 
-<p><strong>Likes</strong>: 9.2k</p>
+<p><strong>Likes</strong>: 9.21k</p>
 
 <p><strong>Transformers</strong>: ❌</p>
 
 <p><a href="https://huggingface.co/black-forest-labs/FLUX.1-dev">🤗 link</a></p>
 
 <p><strong>Summary</strong>:
-FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. It can be used to drive new scientific research, and empower artists to develop innovative workflows. It is available in Comfy UI for local inference with a node-based workflow. The model is not intended or able to provide factual information. It may not be used in any way that violates any applicable national, federal, state, or international law or regulation. It cannot be used for the purpose of exploiting, harming or attempting to exploit or harm minors. It could amplify existing societal biases, and may fail to generate output that matches the prompts. For more information, please read our blog post. It’s free and open-source and available under the FLUX. 1 [Dev] Non-Commercial License. For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org for details. In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.</p>
+FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. It is available for personal, scientific, and commercial purposes as described in the FLUX. 1 Non-Commercial License. The model and its derivatives may not be used in any way that violates any applicable nationa. The FLUX model is also available in Comfy UI for local inference with a node-based workflow. For more information, please read our blog post.</p>
 
 <p><strong>Useful links</strong>:</p>
 
-<p><a href="https://flux1ai.com/dev">https://flux1ai.com/dev</a></p>
+<ul>
+  <li><a href="https://flux1ai.com/dev">flux1ai.com/…</a></li>
+  <li><a href="https://fluxdev.net/flux1-dev">fluxdev.net/…</a></li>
+  <li><a href="https://civitai.com/models/618692/flux">civitai.com/…</a></li>
+  <li><a href="https://blackforestlabs.org/flux-1-1/">blackforestlabs.org/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">black-forest-labs/FLUX.1-schnell</title><link href="http://localhost:4000/models/black-forest-labs_FLUX.1-schnell/" rel="alternate" type="text/html" title="black-forest-labs/FLUX.1-schnell" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/black-forest-labs_FLUX.1-schnell</id><content type="html" xml:base="http://localhost:4000/models/black-forest-labs_FLUX.1-schnell/"><![CDATA[<p><strong>Type</strong>: Text-to-Image</p>
 
-<p><a href="https://blackforestlabs.org/flux-1-1/">https://blackforestlabs.org/flux-1-1/</a></p>
+<p><strong>License</strong>: apache-2.0</p>
 
-<p><a href="https://fluxdev.net/flux1-dev">https://fluxdev.net/flux1-dev</a></p>
+<p><strong>Likes</strong>: 3.48k</p>
 
-<p><a href="https://blackforestlabs.io/flux-1/">https://blackforestlabs.io/flux-1/</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">deepseek-ai/DeepSeek-R1</title><link href="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/" rel="alternate" type="text/html" title="deepseek-ai/DeepSeek-R1" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_DeepSeek-R1</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
+<p><strong>Transformers</strong>: ❌</p>
+
+<p><a href="https://huggingface.co/black-forest-labs/FLUX.1-schnell">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+FLUX.1 [schnell] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. Released under the apache-2.0 licence, the model can be used for personal, scientific, and commercial purposes. The model and its derivatives may not be used in any way that violates any applicable national, federal, state, local or international law or regulation. It is also available in Comfy UI for local inference with a node-based workflow.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://flux1ai.com/schnell">flux1ai.com/…</a></li>
+  <li><a href="https://civitai.com/models/618486?modelVersionId=691408">civitai.com/…</a></li>
+  <li><a href="https://blackforestlabs.io/flux-1/">blackforestlabs.io/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Image]]></summary></entry><entry><title type="html">deepseek-ai/DeepSeek-R1</title><link href="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/" rel="alternate" type="text/html" title="deepseek-ai/DeepSeek-R1" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_DeepSeek-R1</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_DeepSeek-R1/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
 <p><strong>License</strong>: mit</p>
 
@@ -30,16 +107,94 @@ FLUX.1 [dev] is a 12 billion parameter rectified flow transformer capable of gen
 <p><a href="https://huggingface.co/deepseek-ai/DeepSeek-R1">🤗 link</a></p>
 
 <p><strong>Summary</strong>:
-DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. We open-source distilled 1.5B, 7B, 8B, 14B, 32B, and 70B checkpoints based on Qwen2.5 and Llama3 series to the community. The pipeline incorporates two RL stages aimed at discovering improved reasoning patterns and aligning with human preferences. We believe the pipeline will benefit the industry by creating better models. We demonstrate that the reasoning patterns of larger models can be distilled into smaller models, resulting in better performance compared to reasoning patterns discovered through RL on small models. For more details regarding the architecture, please refer to De. De’s architecture for the DeepSeek pipeline. We kindly recommend reviewing the Usage Recommendation section before running DeepSek-R2 series models locally. We hope that this article will help you understand how to use DeepSeeks to improve your computer’s reasoning capabilities. We look forward to hearing from you about your feedback.</p>
+DeepSeek-R1 achieves performance comparable to OpenAI-o1 across math, code, and reasoning tasks. The pipeline incorporates two RL stages aimed at discovering improved reasoning patterns and aligning with human preferences. We believe the pipeline will benefit the industry by creating better models. We kindly recommend reviewing the Usage Recommendation section before running DeepSeek R1 series models locally. We have open-sourced DeepSeeks and six dense models based on Llama and Qwen to support the research community.</p>
 
 <p><strong>Useful links</strong>:</p>
 
-<p><a href="https://www.deepseek.com/">https://www.deepseek.com/</a></p>
+<ul>
+  <li><a href="https://www.deepseek.com/?ref=localhost">www.deepseek.com/…</a></li>
+  <li><a href="https://github.com/deepseek-ai/DeepSeek-R1">github.com/…</a></li>
+  <li><a href="https://www.purepc.pl/jak-skorzystac-z-deepseek-r1-za-darmo-lokalna-instalacja-nowych-modeli-ai-jest-bardzo-prosta-zobacz-krotki-poradnik">www.purepc.pl/…</a></li>
+  <li><a href="https://deepseekai.pl/blog/deepseek-r1-czym-wlasciwie-jest/">deepseekai.pl/…</a></li>
+  <li><a href="https://r1web.com/">r1web.com/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">deepseek-ai/DeepSeek-V3</title><link href="http://localhost:4000/models/deepseek-ai_DeepSeek-V3/" rel="alternate" type="text/html" title="deepseek-ai/DeepSeek-V3" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_DeepSeek-V3</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_DeepSeek-V3/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
 
-<p><a href="https://github.com/deepseek-ai/DeepSeek-R1">https://github.com/deepseek-ai/DeepSeek-R1</a></p>
+<p><strong>License</strong>: ND</p>
 
-<p><a href="https://arxiv.org/abs/2501.12948">https://arxiv.org/abs/2501.12948</a></p>
+<p><strong>Likes</strong>: 3.6k</p>
 
-<p><a href="https://ollama.com/library/deepseek-r1:1.5b">https://ollama.com/library/deepseek-r1:1.5b</a></p>
+<p><strong>Transformers</strong>: ✅</p>
 
-<p><a href="https://api-docs.deepseek.com/news/news1120">https://api-docs.deepseek.com/news/news1120</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry></feed>
+<p><a href="https://huggingface.co/deepseek-ai/DeepSeek-V3">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+DeepSeek-V3 is a strong Mixture-of-Experts (MoE) language model with 671B total parameters with 37B activated for each token. It adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures. It pioneers an auxiliary-loss-free strategy for load balancing and sets a multi-token prediction training objective for stronger performance. It can also be used for speculative decoding for inference acceleration. It is the currently strongest open-source language model.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://www.deepseek.com/">www.deepseek.com/…</a></li>
+  <li><a href="https://github.com/deepseek-ai/DeepSeek-V3">github.com/…</a></li>
+  <li><a href="https://arxiv.org/abs/2412.19437">arxiv.org/…</a></li>
+  <li><a href="https://ollama.com/library/deepseek-v3">ollama.com/…</a></li>
+  <li><a href="https://arxiv.org/pdf/2412.19437">arxiv.org/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">deepseek-ai/Janus-Pro-7B</title><link href="http://localhost:4000/models/deepseek-ai_Janus-Pro-7B/" rel="alternate" type="text/html" title="deepseek-ai/Janus-Pro-7B" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/deepseek-ai_Janus-Pro-7B</id><content type="html" xml:base="http://localhost:4000/models/deepseek-ai_Janus-Pro-7B/"><![CDATA[<p><strong>Type</strong>: Any-to-Any</p>
+
+<p><strong>License</strong>: mit</p>
+
+<p><strong>Likes</strong>: 3.18k</p>
+
+<p><strong>Transformers</strong>: ✅</p>
+
+<p><a href="https://huggingface.co/deepseek-ai/Janus-Pro-7B">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+Janus-Pro is a novel autoregressive framework that unifies multimodal understanding and generation. It addresses the limitations of previous approaches by decoupling visual encoding into separate pathways, while still utilizing a single, unified transformer architecture for processing. The simplicity, high flexibility, and effectiveness of Janus- pro make it a strong candidate for next-generation unified multimodal models. This code repository is licensed under the MIT License. The use of JanUS-Pro models is subject to DeepSeek Model License.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://januspro.org/">januspro.org/…</a></li>
+  <li><a href="https://januspro.io/">januspro.io/…</a></li>
+  <li><a href="https://janus-deepseek.com/">janus-deepseek.com/…</a></li>
+  <li><a href="https://janus7b.com/">janus7b.com/…</a></li>
+  <li><a href="https://deepseek-januspro.com/">deepseek-januspro.com/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Any-to-Any]]></summary></entry><entry><title type="html">google/gemma-7b</title><link href="http://localhost:4000/models/google_gemma-7b/" rel="alternate" type="text/html" title="google/gemma-7b" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/google_gemma-7b</id><content type="html" xml:base="http://localhost:4000/models/google_gemma-7b/"><![CDATA[<p><strong>Type</strong>: Text Generation</p>
+
+<p><strong>License</strong>: gemma</p>
+
+<p><strong>Likes</strong>: 3.13k</p>
+
+<p><strong>Transformers</strong>: ✅</p>
+
+<p><a href="https://huggingface.co/google/gemma-7b">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+Gemma is a family of lightweight, state-of-the-art open models from Google. Built from the same research and technology used to create Gemini models. Text-to-text, decoder-only large language models, available in English. With open weights, pre-trained variants, and instruction-tuned variants. They are well-suited for a variety of text generation tasks, including question answering, summarization, and reasoning. We provide a script to perform Supervised Fine-Tuning (SFT) on UltraChat dataset using QLoRA.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://www.promptingguide.ai/models/gemma">www.promptingguide.ai/…</a></li>
+  <li><a href="https://ollama.com/library/gemma:7b">ollama.com/…</a></li>
+  <li><a href="https://bulldogjob.pl/readme/gemma-najnowszy-lekki-model-ai-od-google">bulldogjob.pl/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text Generation]]></summary></entry><entry><title type="html">hexgrad/Kokoro-82M</title><link href="http://localhost:4000/models/hexgrad_Kokoro-82M/" rel="alternate" type="text/html" title="hexgrad/Kokoro-82M" /><published>2025-03-07T00:00:00+01:00</published><updated>2025-03-07T00:00:00+01:00</updated><id>http://localhost:4000/models/hexgrad_Kokoro-82M</id><content type="html" xml:base="http://localhost:4000/models/hexgrad_Kokoro-82M/"><![CDATA[<p><strong>Type</strong>: Text-to-Speech</p>
+
+<p><strong>License</strong>: apache-2.0</p>
+
+<p><strong>Likes</strong>: 3.57k</p>
+
+<p><strong>Transformers</strong>: ❌</p>
+
+<p><a href="https://huggingface.co/hexgrad/Kokoro-82M">🤗 link</a></p>
+
+<p><strong>Summary</strong>:
+Kokoro is an open-weight TTS model with 82 million parameters. Despite its lightweight architecture, it delivers comparable quality to larger models while being significantly faster and more cost-efficient. With Apache-licensed weights, Kokoro can be deployed anywhere from production environments to personal projects. You can run this cell on Google Colab. Listen to samples. This text is for demonstration purposes only, unseen during training. The sky above the port was the color of television, tuned to a dead channel. The Chatsubo was a bar for professional expatriates; you could drink there for a week and never hear two words in Japanese.</p>
+
+<p><strong>Useful links</strong>:</p>
+
+<ul>
+  <li><a href="https://github.com/hexgrad/kokoro">github.com/…</a></li>
+  <li><a href="https://github.com/zboyles/Kokoro-82M">github.com/…</a></li>
+  <li><a href="https://kokorotts.net/models/Kokoro/Kokoro-82m">kokorotts.net/…</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Type: Text-to-Speech]]></summary></entry></feed>
